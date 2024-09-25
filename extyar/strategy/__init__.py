@@ -1,0 +1,1 @@
+from extyar.strategy.covered_call import covered_call_stg 
